@@ -1,11 +1,12 @@
-cff-version: 1.2.0
+cff-version: 1.0.0
 message: "If this sofware was somewhat helpful, please cite it as follows"
 authors:
-- family-names: "Danila"
-  given-names: "Chernyavskiy"
+- family-names: "Chernyavskiy"
+  given-names: "Danila"
   orcid: "https://orcid.org/0000-0003-4549-7981"
 title: "WeSCA - a ShelXL weighing scheme convergence software"
 version: 2025/1
 doi: 10.5281/zenodo.17508998
 date-released: 2025-11-03
+
 url: "https://github.com/dchchem/wesca"
