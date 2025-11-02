@@ -1,4 +1,5 @@
 # wesca
+[![DOI](https://zenodo.org/badge/1075261206.svg)](https://doi.org/10.5281/zenodo.17508998)
 WeSCA (standing for **We**ighing **S**cheme **C**onvergence **A**lgorithm) is a simple program done using Python [ShelXFile](https://github.com/dkratzert/ShelXFile) package.
 Its main purpose is to automize weighing scheme optimization, especially if the convergence by classical methods takes longer than expected (especially for large structures).
 
