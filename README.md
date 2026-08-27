@@ -1,5 +1,8 @@
 # wesca
-[![DOI](https://zenodo.org/badge/1075261206.svg)](https://doi.org/10.5281/zenodo.17508998)
+
+![Static Badge](https://img.shields.io/badge/DOI_(all_versions)-10.5281%2Fzenodo.17508998-blue)
+![Static Badge](https://img.shields.io/badge/Last_SHELXL_version_passed-2025%2F1-green)
+
 WeSCA (standing for **We**ighing **S**cheme **C**onvergence **A**lgorithm) is a simple program done using Python [ShelXFile](https://github.com/dkratzert/ShelXFile) package.
 Its main purpose is to automize weighing scheme optimization, especially if the convergence by classical methods takes longer than expected (especially for large structures).
 
@@ -13,7 +16,7 @@ WeSCA is distributed as a single-file executable. In order for its appropriate w
 The usage of WeSCA using command line is as follows:
 
 ```
-wesca.exe [-h] [-i ITER] [-r REFINE] [-d DELTA] [-v VERBOSE] [-p PLOT] project
+wesca.exe [-h] [-i ITER] [-r REFINE] [-d DELTA] [-v] [-p] project
 ```
 The parsing arguments are:
 - ``` project ``` - name of project (same for both ``` .res ``` and ``` .hkl ``` file)
