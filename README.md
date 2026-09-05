@@ -26,5 +26,9 @@ The parsing arguments are:
 - ``` -v ``` or ``` --verbose ``` - show ShelXL output in each iteration (true by default)
 - ``` -p ``` or ``` --plot ``` - show convergence plot (false by default)
 
+Below is an example of a convergence plot (```v2026/1```) made when running WeSCA on one of the routine crystal structures:
+<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ec99e42b-ebc6-4624-8c61-7ca404bb2b74" />
+
+
 ### References
 [^1]: Sheldrick, G. M. (2015). Acta Cryst. **C71**, 3-8. DOI: [10.1107/S2053229614024218]
