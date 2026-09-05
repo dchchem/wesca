@@ -30,6 +30,10 @@ Below is an example of a convergence plot (```v2026/1```) made when running WeSC
 
 <img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ec99e42b-ebc6-4624-8c61-7ca404bb2b74" />
 
+And this is an example of a case in which the convergence is semi-stable, i.e. the *a* and *b* values oscillate between two boundary values.
+
+<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/6d4ec587-ef76-4404-971f-d6191c49e8dc" />
+
 
 ### References
 [^1]: Sheldrick, G. M. (2015). Acta Cryst. **C71**, 3-8. DOI: [10.1107/S2053229614024218]
