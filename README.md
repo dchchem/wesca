@@ -27,6 +27,7 @@ The parsing arguments are:
 - ``` -p ``` or ``` --plot ``` - show convergence plot (false by default)
 
 Below is an example of a convergence plot (```v2026/1```) made when running WeSCA on one of the routine crystal structures:
+
 <img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ec99e42b-ebc6-4624-8c61-7ca404bb2b74" />
 
 
